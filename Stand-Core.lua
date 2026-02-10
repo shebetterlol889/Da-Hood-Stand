@@ -1,5 +1,5 @@
 --//--------------------------------------------------------------------------------------------/-/-/ 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DexAbc/Da-Hood-Stand/main/TheStandCreator.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/shebetterlol889/Da-Hood-Stand/refs/heads/main/TheStandCreator.lua'))()
 --\\--------------------------------------------------------------------------------------------\-\-\
 
 --//-------------------- [ Actions ] --------------------\\--
