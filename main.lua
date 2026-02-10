@@ -1,6 +1,6 @@
 getgenv().Settings = {
     ['Made By gravebots'] = {
-        OWNER = "Your username here", --/ Stand owner username.
+        OWNER = "Your-username-here", --/ Stand owner username.
         STANDS = {"ReportWontHelp"}, --/ List of your stand accounts (if you have more than one you can add more usernames to the table).
         FPS = 60, --/ Will control FPS can improve the overall performance on both instances when set to lower.
         PERFORMANCE = false, --/ If set to true it'll significantly improve your overall FPS if you're struggling with performance.
@@ -18,9 +18,9 @@ getgenv().Settings = {
     }
 }
 
---//--------------------------------------------------------------------------------------------/-/-/ 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DexAbc/Da-Hood-Stand/main/Stand-Core.lua'))()
---\\--------------------------------------------------------------------------------------------\-\-\
+--//--------------------------------------------------------------------------------------------/-/-/ /-/-/ /-/-/--/-/ 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/shebetterlol889/Da-Hood-Stand/refs/heads/main/Stand-Core.lua'))()
+--\\--------------------------------------------------------------------------------------------\-\-\/-/-/ /-/-/--/-/-/ 
 
 --[[
     
